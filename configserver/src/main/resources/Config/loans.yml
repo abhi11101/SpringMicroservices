@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to EazyBank Loan Related APIs"
+  contactDetails:
+    name: "Abhijeet Singh"
+    email: "abhi@gmail.com"
+  onCallSupport:
+    - (555)555-1234
+    - (555)123-8765
